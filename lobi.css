@@ -58,7 +58,7 @@ header{
   border: none;
  }
 
- @media (max-width:641px){
+ @media (max-width:450px){
   header{
     height: 90px;
     text-align: center;
